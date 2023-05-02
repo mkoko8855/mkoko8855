@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text%20render&fontSize=90" />
 
 
 
