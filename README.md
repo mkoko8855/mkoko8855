@@ -5,7 +5,7 @@
 
 
 <img src="https://img.shields.io/badge/-Java%20-red"/><img src="https://img.shields.io/badge/-JavaScript-yellow"/><img src="https://img.shields.io/badge/-OracleDB-ff69b4"/><img src="https://img.shields.io/badge/-Mysql-success"/>
-
+<img src="https://img.shields.io/badge/-JSP-blueviolet"/>
 
 
 
