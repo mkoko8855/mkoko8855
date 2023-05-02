@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ideale.^^_&fontSize=90)
 
-### 29기 이용석 👋
+### ICT 용석 👋
 
 <img src="https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text%20render&fontSize=90" />
 
