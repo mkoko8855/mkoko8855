@@ -1,16 +1,6 @@
 ### ICT 용석 👋
 
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/-Java%20-red"/><img src="https://img.shields.io/badge/-JavaScript-yellow"/><img src="https://img.shields.io/badge/-OracleDB-ff69b4"/><img src="https://img.shields.io/badge/-Mysql-success"/><img src="https://img.shields.io/badge/-JSP-blueviolet"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 
 
@@ -23,8 +13,10 @@
 <br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=CSS3&logoColor=white" /><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white" /><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--
 **mkoko8855/mkoko8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
