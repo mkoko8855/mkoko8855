@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ideale.^^_&fontSize=90)
+
 
 <img src="https://img.shields.io/badge/-Java%20-red"/><img src="https://img.shields.io/badge/-JavaScript-yellow"/><img src="https://img.shields.io/badge/-OracleDB-ff69b4"/><img src="https://img.shields.io/badge/-Mysql-success"/><img src="https://img.shields.io/badge/-JSP-blueviolet"/>
 
